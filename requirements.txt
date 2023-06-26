@@ -6,3 +6,6 @@ scipy
 argparse
 req
 clint
+requests
+matplotlib
+pyts
